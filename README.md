@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khoa-Tr
-- 👀 I’m interested in taking photo
+- 👀 I’m interested in taking photo and coding
 - 🌱 I’m currently learning web develope
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
